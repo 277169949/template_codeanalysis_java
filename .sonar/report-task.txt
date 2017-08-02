@@ -2,5 +2,5 @@ projectKey=template_codeanalysis_java
 serverUrl=http://localhost:9000
 serverVersion=6.4.0.25310
 dashboardUrl=http://localhost:9000/dashboard/index/template_codeanalysis_java
-ceTaskId=AV2TUIZRCs7CJU3MJQCo
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AV2TUIZRCs7CJU3MJQCo
+ceTaskId=AV2hQcH-KqQcNShE_J6f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV2hQcH-KqQcNShE_J6f
